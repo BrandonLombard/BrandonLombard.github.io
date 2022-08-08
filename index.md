@@ -1,4 +1,4 @@
-## Brandon Lombard's Portfolio
+## Brandon Lombard | CS-499 | SNHU
 
 You can use the [editor on GitHub](https://github.com/BrandonLombard/BrandonLombard.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
