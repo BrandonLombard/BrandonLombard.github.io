@@ -24,6 +24,51 @@ conditional statement to be independant if-statements, where the total reset eve
 time the form was edited. I also included some code in the shop.js file that made certain form items required, such as the first name, last name, and phone number text boxes. 
 In addition to this, I've implemented new pages into the website, such as a services page, that has images and information about each service. I also created a contact us form
 
+I've also been able to incorporate instructor feedback into this artifact. Primarily, I was required to clean up the HTML, CSS, and JS code, plus add more comments 
+so that any developer can hop in and edit the website. Below is an example of commented code within the shop.js file.
+
+```
+
+// This code determines if the user has completed the First Name, Last Name, and Phone Number sections.
+		// First, return the values from each textbox
+		const fname_required = document.getElementById("fname").value;
+		const lname_required = document.getElementById("lname").value;
+		const phone_required = document.getElementById("phone").value;
+		// Query the textbox items to that will be styled if they miss an entry
+		const fname_style = document.getElementById("fname");
+		const lname_style = document.getElementById("lname");
+		const phone_style = document.getElementById("phone");
+		// If any of the textboxes are empty, notify the user
+		if (fname_required == "") {
+			// Change the background color of each to red
+			fname_style.style.backgroundColor = "#FFCCCC";
+			// Return out of function
+			return	
+		} else if (lname_required == "") {
+			// Change the background color of each to red
+			lname_style.style.backgroundColor = "#FFCCCC";
+			// Return out of function
+			return
+		} else if (phone_required == ""){
+			// Change the background color of each to red
+			phone_style.style.backgroundColor = "#FFCCCC";
+			// Return out of function
+			return
+			// Else, submit the form		
+		} else {
+			// Loop to disable the form after the request has been submitted
+			var inputs = document.getElementsByTagName("input"); 
+			for (var i = 0; i < inputs.length; i++) { 
+				inputs[i].disabled = true;
+			} 
+
+```
+
+### <pre align="center">Future Updates to this artifact</pre>
+
+In the future, I plan to make some more enhancements to this artifact. Firstly, I'd like to incoporate a responsive calendar application so that prospective customers
+may schedule appointments for the services they've requested. Additionally, I'd like to create a PHP backend that submits the form into the website's system.
+
 
 ### <pre align="center">First Design (index.html)</pre>
 
