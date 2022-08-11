@@ -25,7 +25,7 @@ time the form was edited. I also included some code in the shop.js file that mad
 In addition to this, I've implemented new pages into the website, such as a services page, that has images and information about each service. I also created a contact us form
 
 I've also been able to incorporate instructor feedback into this artifact. Primarily, I was required to clean up the HTML, CSS, and JS code, plus add more comments 
-so that any developer can hop in and edit the website. Below is an example of commented code within the shop.js file.
+so that any developer can hop in and edit the website. Below is an example of commented code within the shop.js file. This particular section of code makes certain elements require some form of input, or the text box will turn red and not submit.
 
 ```
 
