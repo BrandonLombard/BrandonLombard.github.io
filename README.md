@@ -71,6 +71,9 @@ so that any developer can hop in and edit the website. Below is an example of co
 In the future, I plan to make some more enhancements to this artifact. Firstly, I'd like to incoporate a responsive calendar application so that prospective customers
 may schedule appointments for the services they've requested. Additionally, I'd like to create a PHP backend that submits the form into the website's system.
 
+### <pre align="center">Original Project (main.py)</pre>
+
+<img src="mechanic_shop_original.png">
 
 ### <pre align="center">First Design (index.html)</pre>
 
