@@ -74,8 +74,8 @@ may schedule appointments for the services they've requested. Additionally, I'd 
 
 ### <pre align="center">First Design (index.html)</pre>
 
-Note to self: Add image of original design
+<img src="mechanic_shop_first_draft.png">
 
 ### <pre align="center">Final Design (index.html)</pre>
 
-Note to self: Add image of new design
+<img src="mechanic_shop_final.png">
