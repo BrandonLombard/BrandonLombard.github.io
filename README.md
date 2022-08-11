@@ -25,10 +25,10 @@ time the form was edited. I also included some code in the shop.js file that mad
 In addition to this, I've implemented new pages into the website, such as a services page, that has images and information about each service. I also created a contact us form
 
 
-### First Design (index.html)
+### <pre align="center">First Design (index.html)</pre>
 
-<Note to self: Add image of original design>
+Note to self: Add image of original design
 
-### Final Design (index.html)
+### <pre align="center">Final Design (index.html)</pre>
 
-<Note to self: Add image of new design>
+Note to self: Add image of new design
