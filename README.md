@@ -2,6 +2,8 @@
 
 ## <pre align="center">Mechanic Shop Website</pre>
 
+Located in the <b>Web Store Folder</b>
+
 For Enhancement One: Software Design/Engineering, I have taken a Python program from CS-200 and converted it into a website. It is meant to be a mechanic shop, 
 where customers may place an order for which services they would like. The original project was output in a Python terminal window, which I felt was not a great 
 option for prospective customers. I chose this project because I believe it would be a beneficial upgrade to the original project, as a Python terminal application 
