@@ -40,8 +40,45 @@ occasions. Overall, it was a great experience and taught me a lot. It helped me 
 little of the language. 
 
 
-```
+Below includes snippets of the code for the randomButton, which was one of the major enhacnements in this artifact.
 
+```
+    ...
+    // Slide Buttons
+    ...
+    randomButton = new JButton();
+...
+    // Random button
+		randomButton.setBackground(new java.awt.Color(246, 238, 224));
+		randomButton.setForeground(new java.awt.Color(164, 92, 64));
+		randomButton.setBorder(BorderFactory.createCompoundBorder(BorderFactory.createLineBorder(new java.awt.Color(35, 43, 27),1),
+				BorderFactory.createLineBorder(new java.awt.Color(246, 238, 224), 4)));
+		// Set size of random button
+		randomButton.setPreferredSize(new Dimension(80, 20));
+    ...
+    /**
+		 * Put the Random Button on the page
+		 */
+		randomButton.setText("Random");
+		randomButton.addActionListener(new ActionListener() {
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				goRandom();
+			}
+		});
+		buttonPane.add(randomButton);
+    ...
+    /* Method to get a random slide */
+	private void goRandom() {
+		/* Generate random number */
+		int random_int = (int)Math.floor(Math.random()*(max-min+1)+min);
+		// For loop determines 
+		for (int i = 0; i < random_int; i++) {
+			card.next(slidePane);
+			cardText.next(textPane);
+		}
+	}
 ```
 
 ### <pre align="center">Future Updates to this artifact</pre>
