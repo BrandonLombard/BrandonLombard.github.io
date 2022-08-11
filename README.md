@@ -4,7 +4,7 @@
 
 Located in the **Web Store** Folder
 
-For Enhancement One: Software Design/Engineering, I have taken a Python program from CS-200 and converted it into a website. It is meant to be a mechanic shop, 
+For **Enhancement One: Software Design/Engineering**, I have taken a Python program from **CS-200** and converted it into a website. It is meant to be a mechanic shop, 
 where customers may place an order for which services they would like. The original project was output in a Python terminal window, which I felt was not a great 
 option for prospective customers. I chose this project because I believe it would be a beneficial upgrade to the original project, as a Python terminal application 
 is not suitable to any company. Typically, companies will use websites to have customers place orders, not terminal windows. Therefore, I created a basic website design 
@@ -23,11 +23,11 @@ its solution, while managing the trade-offs involved in design choices (data str
 My first submission for this artifact was missing quite a few items. It only had a basic design for the shop form, and had some issues such as the inability to properly
 add items to the cart. I was able to implement some responsive elements and an overall theme to fix these issues. To fix the issue with the cart, I changed my chained 
 conditional statement to be independant if-statements, where the total reset every time another checkbox was clicked on. This made it so that it updated accoringly every
-time the form was edited. I also included some code in the shop.js file that made certain form items required, such as the first name, last name, and phone number text boxes. 
+time the form was edited. I also included some code in the <code>shop.js</code> file that made certain form items required, such as the first name, last name, and phone number text boxes. 
 In addition to this, I've implemented new pages into the website, such as a services page, that has images and information about each service. I also created a contact us form
 
 I've also been able to incorporate instructor feedback into this artifact. Primarily, I was required to clean up the HTML, CSS, and JS code, plus add more comments 
-so that any developer can hop in and edit the website. Below is an example of commented code within the shop.js file. This particular section of code makes certain elements require some form of input, or the text box will turn red and not submit.
+so that any developer can hop in and edit the website. Below is an example of commented code within the <code>shop.js</code> file. This particular section of code makes certain elements require some form of input, or the text box will turn red and not submit.
 
 ```
 
