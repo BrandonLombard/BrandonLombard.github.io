@@ -85,10 +85,10 @@ Below includes snippets of the code for the randomButton, which was one of the m
 
 In the future, I plan to make it so the user can click on links to the websites of these destinations. I'd also like to add some more destinations to make the slide show more diverse.
 
-### <pre align="center">First Design</pre>
+### <pre align="center">Original Design</pre>
 
-Note to self: Add image of original design
+<img src="slideshow-original.png">
 
 ### <pre align="center">Final Design</pre>
 
-Note to self: Add image of new design
+<img src="slideshow-final.png">
