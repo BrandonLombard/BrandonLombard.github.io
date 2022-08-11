@@ -4,7 +4,7 @@
 
 Located in the **Web Store** Folder
 
-For **Enhancement One: Software Design/Engineering**, I have taken a Python program from **CS-200** and converted it into a website. It is meant to be a mechanic shop, 
+For <code>Enhancement One: Software Design/Engineering</code>, I have taken a Python program from <code>CS-200</code> and converted it into a website. It is meant to be a mechanic shop, 
 where customers may place an order for which services they would like. The original project was output in a Python terminal window, which I felt was not a great 
 option for prospective customers. I chose this project because I believe it would be a beneficial upgrade to the original project, as a Python terminal application 
 is not suitable to any company. Typically, companies will use websites to have customers place orders, not terminal windows. Therefore, I created a basic website design 
@@ -15,9 +15,9 @@ This artifact allows me to showcase some of my Full Stack abilities, since that 
 this application with much trial and error. I see myself as a decent Python developer, but my website development skills have improved through the development of this 
 project. I have been able to create multiple buttons that the user can select that either submit the form, clear the selected services, or select all services. I have 
 also included a counter element that tells the customer their order total in real time. I have been able to display skills illustrated in the course outcomes, such as 
-[CS-499-04] Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer 
+<code>[CS-499-04]</code> Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer 
 solutions that deliver value and accomplish industry-specific goals (software engineering/design/database). I believe I also have successfully met the outcome of 
-[CS-499-03] Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to 
+<code>[CS-499-03]</code> Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to 
 its solution, while managing the trade-offs involved in design choices (data structures and algorithms). 
 
 My first submission for this artifact was missing quite a few items. It only had a basic design for the shop form, and had some issues such as the inability to properly
