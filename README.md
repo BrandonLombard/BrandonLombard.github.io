@@ -83,7 +83,7 @@ Below includes snippets of the code for the randomButton, which was one of the m
 
 ### <pre align="center">Future Updates to this artifact</pre>
 
-In the future, I plan to make it so the user can click on links to teh websites of these destinations. I'd also like to add some more destinations to make the slide show more diverse.
+In the future, I plan to make it so the user can click on links to the websites of these destinations. I'd also like to add some more destinations to make the slide show more diverse.
 
 ### <pre align="center">First Design</pre>
 
