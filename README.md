@@ -1,6 +1,6 @@
 # Enhancement One: Software Design and Engineering
 
-## Mechanic Shop Website
+## <pre style="text-align: center;">Mechanic Shop Website</pre>
 
 For Enhancement One: Software Design/Engineering, I have taken a Python program from CS-200 and converted it into a website. It is meant to be a mechanic shop, 
 where customers may place an order for which services they would like. The original project was output in a Python terminal window, which I felt was not a great 
