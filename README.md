@@ -34,7 +34,7 @@ design as well while implementing these new features, to which I used a color sc
 
 I experienced some issues while developing this program, part of which was because I was confused by the Java code. I was able to study a lot this week to become more 
 knowledgeable on the syntax and function of the language. I first was only able to edit the color of each element. Then, the random button was difficult at first, but 
-I was able to do some research on how to create random numbers in java. I broke my code multiple times, such as using a <code>setPreferredSize()</code> function. when I was trying to get the random button to work, 
+I was able to do some research on how to create random numbers in java. I broke my code multiple times, such as using a <code>setPreferredSize()</code> function. Another issue I fixed was that when the user resized the window, the program would not scale properly. As an easy fix, I made it so the user couldn't scale the program window at all. when I was trying to get the random button to work, 
 for reasons such as I didn’t add the JFrame for the button. Additionally, there was a sizing issue in my random button in my first submission. I was able to fix this by importing a new class and using a I also learned that not all CSS works inside of this java project, so I had to improvise on numerous 
 occasions. Overall, it was a great experience and taught me a lot. It helped me to better understand how to program in Java, which before this project began, I knew 
 little of the language. 
