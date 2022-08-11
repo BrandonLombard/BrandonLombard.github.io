@@ -1,4 +1,4 @@
-# Enhancement One: Software Design and Engineering
+# <pre align="center">Enhancement One: Software Design and Engineering</pre>
 
 ## <pre align="center">Mechanic Shop Website</pre>
 
