@@ -78,4 +78,4 @@ may schedule appointments for the services they've requested. Additionally, I'd 
 
 ### <pre align="center">Final Design (index.html)</pre>
 
-<img src="mechanic_shop_final.png">
+<img src="mechanic_shop_final.png"> 
