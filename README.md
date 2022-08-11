@@ -73,7 +73,7 @@ may schedule appointments for the services they've requested. Additionally, I'd 
 
 ### <pre align="center">Original Project (main.py)</pre>
 
-<img src="mechanic_shop_original.png">
+<img src="mechanic_shop_original.png" align="center">
 
 ### <pre align="center">First Design (index.html)</pre>
 
