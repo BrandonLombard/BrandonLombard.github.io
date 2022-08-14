@@ -17,7 +17,7 @@ A code review involves quality assurance on a particular project by reviewing it
 The first artifact of this portfolio is a Mehanic Service Order Website, where customers can fill out a form with their chosen services and see the total cost. This is an example of my full stack capabilities.
 
 <center>
-  <a href="[https://github.com/BrandonLombard/BrandonLombard.github.io/tree/Mechanic-Website](https://github.com/BrandonLombard/BrandonLombard.github.io/tree/Mechanic-Website#enhancement-one-software-design-and-engineering)">
+  <a href="https://github.com/BrandonLombard/BrandonLombard.github.io/tree/Mechanic-Website#enhancement-one-software-design-and-engineering">
     <img src="mechanic_shop_final.png" height=250>
   </a>
 </center>
@@ -29,7 +29,7 @@ The first artifact of this portfolio is a Mehanic Service Order Website, where c
 This project is a vacation destination slide show that was written in Java. It displays my knowledge of Object Oriented Programming, along with the implementation of design aspects.
 
 <center>
-  <a href="[https://github.com/BrandonLombard/BrandonLombard.github.io/tree/Java-Slide-Show](https://github.com/BrandonLombard/BrandonLombard.github.io/tree/Java-Slide-Show#enhancement-two-algorithms-and-data-structures)">
+  <a href="https://github.com/BrandonLombard/BrandonLombard.github.io/tree/Java-Slide-Show#enhancement-two-algorithms-and-data-structures">
     <img src="slideshow-final.png" height=400>
   </a>
 </center>
