@@ -16,7 +16,7 @@ You can view this <a href="https://www.brandonlombard.com/CS-499/code-review.htm
 
 The first artifact of this portfolio is a Mehanic Service Order Website, where customers can fill out a form with their chosen services and see the total cost.
 
-<img src="mechanic_shop_final.png" height=200 width=300>
+<img src="mechanic_shop_final.png" height=200>
 
 Click <a href="https://github.com/BrandonLombard/BrandonLombard.github.io/tree/Mechanic-Website">here</a> to view this project.
 
@@ -24,7 +24,7 @@ Click <a href="https://github.com/BrandonLombard/BrandonLombard.github.io/tree/M
 
 This project is a vacation destination slide show that was written in Java. It displays my knowledge of Object Oriented Programming, along with the implementation of design aspects.
 
-<img src="slideshow-final.jpg" height=200 width=450>
+<img src="slideshow-final.jpg" height=200>
 
 Click <a href="https://github.com/BrandonLombard/BrandonLombard.github.io/tree/Java-Slide-Show">here</a> to view this project.
 
