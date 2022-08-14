@@ -1,4 +1,4 @@
-<h1>Brandon Lombard</h1>
+<title>Brandon Lombard</title>
 
 # Brandon Lombard Computer Science Capstone
 
