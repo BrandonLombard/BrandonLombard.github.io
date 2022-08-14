@@ -1,7 +1,9 @@
 # Computer Science Capstone
 
-<img src="profile.jpg" height=200 width=150 align="center">
-
+<center>
+<img src="profile.jpg" height=200 width=175>
+</center>
+  
 ## <center>CS-499 | SNHU</center>
 
 #### CODE REVIEW
