@@ -1,5 +1,5 @@
 <center>
-<img src="profile.jpg" height=200 width=200>
+  <img src="profile.jpg" height=200 width=200>
 </center>
   
 # Computer Science Capstone
@@ -16,21 +16,29 @@ You can view this <a href="https://www.brandonlombard.com/CS-499/code-review.htm
 
 The first artifact of this portfolio is a Mehanic Service Order Website, where customers can fill out a form with their chosen services and see the total cost.
 
-<img src="mechanic_shop_final.png" height=200>
-
+<center>
+  <img src="mechanic_shop_final.png" height=250>
+</center>
+  
 Click <a href="https://github.com/BrandonLombard/BrandonLombard.github.io/tree/Mechanic-Website">here</a> to view this project.
 
 #### Project 2: Algorithm and Data Structures
 
 This project is a vacation destination slide show that was written in Java. It displays my knowledge of Object Oriented Programming, along with the implementation of design aspects.
 
-<img src="slideshow-final.png" height=200>
-
+<center>
+  <img src="slideshow-final.png" height=400>
+</center>
+  
 Click <a href="https://github.com/BrandonLombard/BrandonLombard.github.io/tree/Java-Slide-Show">here</a> to view this project.
 
 #### Project 3: Databases
 
 My database project uses Python and SQLite _______.
+
+<center>
+  <img src="" height=200>
+</center>
 
 Click <a href="">here</a> to view this project.
 
