@@ -1,3 +1,5 @@
+<h1>Brandon Lombard</h1>
+
 # Brandon Lombard Computer Science Capstone
 
 ## <center>CS-499 | SNHU</center>
