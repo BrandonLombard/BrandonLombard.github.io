@@ -1,5 +1,5 @@
 <center>
-<img src="profile.jpg" height=200 width=175>
+<img src="profile.jpg" height=200 width=200>
 </center>
   
 # Computer Science Capstone
@@ -14,13 +14,17 @@ You can view this <a href="https://www.brandonlombard.com/CS-499/code-review.htm
 
 #### Project 1: Software Engineering and Design
 
-For my first project, I created a Mehanic Service Order Form, where customers can fill out a form with their chosen services and see the total cost.
+The first artifact of this portfolio is a Mehanic Service Order Website, where customers can fill out a form with their chosen services and see the total cost.
+
+<img src="mechanic_shop_final.png" height=200 width=300>
 
 Click <a href="https://github.com/BrandonLombard/BrandonLombard.github.io/tree/Mechanic-Website">here</a> to view this project.
 
 #### Project 2: Algorithm and Data Structures
 
-This project is a vacation destination slide show that was written in Java. This shows my skillset in Object Oriented Programming, along with the ability to create a visually-appealing design.
+This project is a vacation destination slide show that was written in Java. It displays my knowledge of Object Oriented Programming, along with the implementation of design aspects.
+
+<img src="slideshow-final.jpg" height=200 width=300>
 
 Click <a href="https://github.com/BrandonLombard/BrandonLombard.github.io/tree/Java-Slide-Show">here</a> to view this project.
 
