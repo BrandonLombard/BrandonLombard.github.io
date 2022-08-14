@@ -22,7 +22,7 @@ The first artifact of this portfolio is a Mehanic Service Order Website, where c
   
 <code>See the artifact's report and code <b><a href="https://github.com/BrandonLombard/BrandonLombard.github.io/tree/Mechanic-Website">here</a></b>.</code>
 
-#### Project 2: Algorithm and Data Structures
+#### Project 2: Algorithms and Data Structures
 
 This project is a vacation destination slide show that was written in Java. It displays my knowledge of Object Oriented Programming, along with the implementation of design aspects.
 
