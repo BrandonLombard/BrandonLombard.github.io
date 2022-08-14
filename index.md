@@ -1,6 +1,6 @@
 # Brandon Lombard Computer Science Capstone
 
-## CS-499 | SNHU
+## <center>CS-499 | SNHU</center>
 
 #### CODE REVIEW
 
