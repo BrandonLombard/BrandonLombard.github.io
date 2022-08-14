@@ -14,7 +14,7 @@ A code review involves quality assurance on a particular project by reviewing it
 
 #### Project 1: Software Engineering and Design
 
-The first artifact of this portfolio is a Mehanic Service Order Website, where customers can fill out a form with their chosen services and see the total cost.
+The first artifact of this portfolio is a Mehanic Service Order Website, where customers can fill out a form with their chosen services and see the total cost. This is an example of my full stack capabilities.
 
 <center>
   <img src="mechanic_shop_final.png" height=250>
