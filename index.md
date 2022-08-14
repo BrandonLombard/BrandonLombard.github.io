@@ -24,7 +24,7 @@ Click <a href="https://github.com/BrandonLombard/BrandonLombard.github.io/tree/M
 
 This project is a vacation destination slide show that was written in Java. It displays my knowledge of Object Oriented Programming, along with the implementation of design aspects.
 
-<img src="slideshow-final.jpg" height=200>
+<img src="slideshow-final.png" height=200>
 
 Click <a href="https://github.com/BrandonLombard/BrandonLombard.github.io/tree/Java-Slide-Show">here</a> to view this project.
 
