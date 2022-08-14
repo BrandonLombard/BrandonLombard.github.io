@@ -1,4 +1,6 @@
-## Brandon Lombard | CS-499 | SNHU
+## Brandon Lombard
+
+## CS-499 | SNHU
 
 #### CODE REVIEW
 
@@ -15,3 +17,7 @@ Click <a href="https://github.com/BrandonLombard/BrandonLombard.github.io/tree/J
 #### Project 3: Databases
 
 Click <a href="">here</a> to view this project.
+
+## Professional Self-Assessment
+
+
