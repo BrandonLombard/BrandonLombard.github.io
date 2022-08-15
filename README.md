@@ -21,6 +21,10 @@ There are multiple enhancements I plan to do in the future for this artifact. Fi
 
 <img src="database-original.png">
 
+### <pre align="center">Second Design</pre>
+
+<img src="database-rough-draft.png">
+
 ### <pre align="center">Final Design</pre>
 
 <img src="database-final.png">
