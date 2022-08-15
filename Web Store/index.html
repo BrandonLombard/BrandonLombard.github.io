@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<!-- Main file that contains the webform -->
+<html>
+   <head>
+      <title>Mechanic's Shop</title>
+	  <!-- styling of the website / webform -->
+      <link href="style.css" style="text/css" rel="stylesheet">
+	  <!-- This js file controls the shop portion of the website -->
+	  <script type="text/javascript" src="shop.js"></script>
+   </head>
+   <body>
+      <div id="container">
+	     <!-- The header bar of the website that contains the name and the navigation -->
+	     <div id="header">
+            <h1 style="float: left">Bob's Mechanic Shop</h1>
+			<pre id="info">1(603)413-4124<br>42 Wallaby Way, Sydney</pre>
+		    <a href="contact-us.html" class="menu">CONTACT US</a>
+			<a href="services.html" class="menu">SERVICES</a>
+			<a href="index.html" class="menu">HOME</a>
+         </div>
+		 <!-- The web form that allows customers to make their orders -->
+		 <div id="form">
+			<h2>Submit a Maintenance Request</h2>
+		    <form name="order_form" action="" method="GET">
+			   <!-- Customer enters first and last name, and their phone number for record -->
+			   <label for="fname">First Name<font color="red">*</font></label><br>
+			   <input type="text" id="fname" name="fname" required><br><br>
+			   <label for="lname">Last Name<font color="red">*</font></label><br>
+			   <input type="text" id="lname" name="lname"><br><br>
+			   <label for="phone">Phone Number<font color="red">*</font></label><br>
+			   <input type="text" id="phone" name="phone"><br><br>
+			   <!-- Customer selects their services -->
+			   <hr><br>
+			   <b>Which service would you like?</b><br><br>
+			   <!-- Oil change option -->
+			   <input type="checkbox" id="oil_change" name="oil_change" value="oil_change"  onclick="updatePrice(this.form)">
+			   <label for="oil_change">Oil Change</label><br><br>
+			   <!-- Tire rotation option -->
+			   <input type="checkbox" id="tire_rotation" name="tire_rotation" value="tire_rotation"  onclick="updatePrice(this.form)">
+               <label for="tire_rotation">Tire Rotation</label><br><br>
+			   <!-- Car wash option -->
+               <input type="checkbox" id="car_wash" name="car_wash" value="car_wash"  onclick="updatePrice(this.form)">
+               <label for="car_wash">Car Wash</label><br><br>
+			   <!-- Car wax option -->
+			   <input type="checkbox" id="car_wax" name="car_wax" value="car_wax"  onclick="updatePrice(this.form)">
+               <label for="car_wax">Car Wax</label><br><br>
+			   <!-- Submit and display order -->
+			   <input type="button" value="Submit" id="submit" onClick="submitForm(this.form)">
+			   <input type="button" value="Reset" id="submit" onClick="resetForm(this.form)">
+			   <input type="button" value="Select All" id="submit" onClick="selectAll(this.form);updatePrice(this.form)">
+			   <!-- Display order total on the screen -->
+			   <div id="total">$0</div>
+			   <!-- Placeholder div where the total will be added using the js file -->
+			   <div id="receipt"></div>
+			</form>
+		 </div>
+		 <!-- This is a link to a works cited page since I've used some resources that need attribution --> 
+		 <!-- The link is surrounding the div so that the user can click anywhere on the box to open the link -->
+		 <a href="resources.html" style="text-decoration: none;background-color: #90ADC6;">
+		   <div id="resources">
+		     Works Cited
+		   </div>
+		 </a>
+      </div>
+   </body>
+</html>
