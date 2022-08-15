@@ -19,8 +19,8 @@ In the future, I plan to make it so the user can click on links to the websites 
 
 ### <pre align="center">Original Design</pre>
 
-<img src="slideshow-original.png">
+<img src="database-original.png">
 
 ### <pre align="center">Final Design</pre>
 
-<img src="slideshow-final.png">
+<img src="database-final.png">
