@@ -16,7 +16,7 @@ this application with much trial and error. I see myself as a decent Python deve
 project. I have been able to create multiple buttons that the user can select that either submit the form, clear the selected services, or select all services. I have 
 also included a counter element that tells the customer their order total in real time. I have been able to display skills illustrated in the course outcomes, such as 
 <code>[CS-499-04]</code> Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer 
-solutions that deliver value and accomplish industry-specific goals (software engineering/design/database). I believe I also have successfully met the outcome of 
+solutions that deliver value and accomplish industry-specific goals (software engineering/design/database). I also have successfully met the outcome of 
 <code>[CS-499-03]</code> Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to 
 its solution, while managing the trade-offs involved in design choices (data structures and algorithms). 
 
