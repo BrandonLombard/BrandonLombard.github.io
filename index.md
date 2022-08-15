@@ -60,12 +60,22 @@ I have not only gained knowledge in these categories, but also several other imp
 
 <code>[CS-499-01]</code> Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science.
 
+
+
 <code>[CS-499-02]</code> Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.
 
+I have met this outcome due to my **code review**, artifact narratives, and professional self-assessment. This was done by creating professional documents showcasing the outcomes of these projects and my time in the Computer Science program as a whole. 
+
 <code>[CS-499-03]</code> Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices (data structures and algorithms).
+
+This course outcome has been met with my **Java Slide Show** project. I was able to use algorithmic techniques, computer science practices and standards that were apropriate to the project at hand, which was a vacation destination slide show. I was able to implement design elements while using Object-Oriented programming to create a well-developed and organized program.
 
 <code>[CS-499-04]</code> Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of
 implementing computer solutions that deliver value and accomplish industry-specific goals (software engineering/design/database)
 
+This outcome was met with my first project, **the Mechanic Shop** website. It was met due to develoing both a back-end and front-end for an online store. It required full-stack knowledge to successfully complete the project, working with HTML, CSS, and JavaScript.
+
 <code>[CS-499-05]</code> Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities,
-mitigate design flaws, and ensure privacy and enhanced security of data and resources 
+mitigate design flaws, and ensure privacy and enhanced security of data and resources. 
+
+I was able to meet this course outcome through my **database** project, where I enabled error checking and code to combat SQL Injection.
