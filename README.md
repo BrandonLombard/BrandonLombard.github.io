@@ -17,7 +17,7 @@ Overall, this was a great learning experience for me and was cool to see the enh
 
 There are multiple enhancements I plan to do in the future for this artifact. First, I'd like to convert this project to Object-Oriented Programming techniques by using classes instead of global variables. Secondly, I want this program to have the capability to use differnet databases which contain different data. Right now, you can use multiple databases as long as they have the same type of data stored. 
 
-### <pre align="center">Original Design</pre>
+### <pre align="center">Original Project</pre>
 
 <img src="database-original.png">
 
