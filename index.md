@@ -41,10 +41,12 @@ This project is a vacation destination slide show that was written in Java. It d
 My database project uses Python and SQLite _______.
 
 <center>
-  <img src="database-final.png" height=400>
+  <a href="https://github.com/BrandonLombard/BrandonLombard.github.io/tree/DataTreeLite#enhancement-three-databases">
+    <img src="database-final.png" height=400>
+  </a>
 </center>
 
-  <code>See the artifact's report and code <b><a href="" title="Click me to view the artifact report">here</a></b>.</code>
+  <code>See the artifact's report and code <b><a href="https://github.com/BrandonLombard/BrandonLombard.github.io/tree/DataTreeLite" title="Click me to view the artifact report">here</a></b>.</code>
 
 ## Professional Self-Assessment
 
