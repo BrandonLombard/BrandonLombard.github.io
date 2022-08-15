@@ -38,7 +38,7 @@ This project is a vacation destination slide show that was written in Java. It d
 
 #### Project 3: Databases
 
-My database project uses Python and SQLite _______.
+This database project has a Python TKinter GUI that uses SQLite to communicate with a database. Therefore, displaying my knowledge of collecting and interpreting data.
 
 <center>
   <a href="https://github.com/BrandonLombard/BrandonLombard.github.io/tree/DataTreeLite#enhancement-three-databases">
