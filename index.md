@@ -60,7 +60,7 @@ I have not only gained knowledge in these categories, but also several other imp
 
 <code>[CS-499-01]</code> Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science.
 
-This outcome was met in regard to this portfolio was built on a collaborative environment, being GitHub pages, where I am displaying my work for diverse audiences. I am able to therefore communicate how I have excelled as a developer throughout my time at SNHU.
+This outcome was met in regard to this portfolio was built on a collaborative environment, being **GitHub pages**, where I am displaying my work for diverse audiences. I am able to therefore communicate how I have excelled as a developer throughout my time at SNHU.
 
 <code>[CS-499-02]</code> Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.
 
