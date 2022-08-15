@@ -60,7 +60,7 @@ I have not only gained knowledge in these categories, but also several other imp
 
 <code>[CS-499-01]</code> Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science.
 
-
+This outcome was met in regard to this portfolio was built on a collaborative environment, being GitHub pages, where I am displaying my work for diverse audiences. I am able to therefore communicate how I have excelled as a developer throughout my time at SNHU.
 
 <code>[CS-499-02]</code> Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.
 
@@ -73,7 +73,7 @@ This course outcome has been met with my **Java Slide Show** project. I was able
 <code>[CS-499-04]</code> Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of
 implementing computer solutions that deliver value and accomplish industry-specific goals (software engineering/design/database)
 
-This outcome was met with my first project, **the Mechanic Shop** website. It was met due to develoing both a back-end and front-end for an online store. It required full-stack knowledge to successfully complete the project, working with HTML, CSS, and JavaScript.
+This outcome was met with my first project, **the Mechanic Shop** website. It was met due to develoing both a back-end and front-end for an online store. It required full-stack knowledge to successfully complete the project, working with HTML, CSS, and JavaScript. I was also able to do this with the **Database** project, by creating innovative functions, such as the live view editing of the database.
 
 <code>[CS-499-05]</code> Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities,
 mitigate design flaws, and ensure privacy and enhanced security of data and resources. 
