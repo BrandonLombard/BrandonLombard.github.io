@@ -15,7 +15,7 @@ Overall, this was a great learning experience for me and was cool to see the enh
 
 ### <pre align="center">Future Updates to this artifact</pre>
 
-In the future, I plan to make it so the user can click on links to the websites of these destinations. I'd also like to add some more destinations to make the slide show more diverse.
+There are multiple enhancements I plan to do in the future for this artifact. First, I'd like to convert this project to Object-Oriented Programming techniques by using classes instead of global variables. Secondly, I want this program to have the capability to use differnet databases which contain different data. Right now, you can use multiple databases as long as they have the same type of data stored. 
 
 ### <pre align="center">Original Design</pre>
 
