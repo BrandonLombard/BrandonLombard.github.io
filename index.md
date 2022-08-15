@@ -41,7 +41,7 @@ This project is a vacation destination slide show that was written in Java. It d
 My database project uses Python and SQLite _______.
 
 <center>
-  <img src="database-final.png" height=200>
+  <img src="database-final.png" height=400>
 </center>
 
   <code>See the artifact's report and code <b><a href="" title="Click me to view the artifact report">here</a></b>.</code>
